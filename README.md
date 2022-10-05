@@ -6,7 +6,7 @@ This project was created to help the production troubles AutosRUs' is having whi
 
 ## Linear Regression to Predict MPG
 
-The dataset used for this part of the projrct had a sample size of 50 prototypes. The results for to the multiple linear regression can be seen below.
+The dataset used for this part of the project had a sample size of 50 prototypes. The results for to the multiple linear regression can be seen below.
 
 ![alt text](https://github.com/dntalx/Mecha_Car_Statistical_Analysis/blob/main/Resources/Linear_Regression.png)
 
